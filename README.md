@@ -1,4 +1,4 @@
-# app-usage-analytics
+# App Usage Analytics
 Power BI project analyzing mobile app usage and user engagement data.
 # 📱 App Usage Analytics Dashboard (Power BI)
 
