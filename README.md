@@ -31,7 +31,7 @@ The goal of this analysis is to identify:
 | `is_productive` | Indicates if the app is classified as productive |
 | `youtube_views` | Number of YouTube video views (if applicable) |
 | `youtube_likes` | Total likes generated on YouTube |
-| `youtuve_comments` | Number of comments on YouTube videos |
+| `youtube_comments` | Number of comments on YouTube videos |
 
 ---
 
@@ -99,4 +99,5 @@ A focused view of YouTube-related engagement:
 
 ---
 
-## Repository Structure
+## Screenshots / Demos
+Example: ![Dashboard Preview](https://github.com/Eugene0913/app-usage-analytics/blob/main/App%20Usage%20Overview.png)
